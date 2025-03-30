@@ -17,7 +17,7 @@ Provide a detailed description of your project. What is it about? What does it d
 
 ## Demo
 
-Check out the live version of the project here: [Deployed Project Link](http://example.com)
+Check out the live version of the project here: [Deployed Project Link](https://todo-redux-lac-eight.vercel.app/)
 
 ## Installation
 
