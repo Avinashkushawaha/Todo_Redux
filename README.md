@@ -1,15 +1,12 @@
-# Project Name
+# Todo List
 
-Brief description of your project, what it does, and its purpose.
+ This To-Do List application is a task management tool built using React, Redux, and LocalStorage. It allows users to add, edit, delete, and mark tasks as completed, ensuring efficient organization of daily tasks.
 
-## Table of Contents
-- [About](#about)
-- [Demo](#demo)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
+## Uses Technology
+- React provides a dynamic and interactive UI.
+- Redux manages the global state, ensuring seamless updates across components.
+- LocalStorage preserves tasks even after page reloads, enhancing user experience.
+
 
 ## About
 
